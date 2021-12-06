@@ -19,7 +19,7 @@ PRIVATE_KEY="your-metamask-private-key"
 ```
 npx hardhat run scripts/deploy.js --network ropsten
 ```
-** hardhat environment must be set up! **
+**hardhat environment must be set up!**
 3. Go to the Ropsten etherscan and search for the newly, created contract address.
 4. Edit nft-metadata.json file as you prefer. You may upload an image to pinata and change the image URL to the CID.
 5. Update env.file.
