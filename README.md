@@ -3,10 +3,10 @@ How to Mint NFT example
 
 ## Basics
 ### Programs Used
-1. Alchemy[https://www.alchemy.com/]
-2. MetaMask[https://metamask.io/]
-3. Ropsten faucet[https://faucet.ropsten.be/]
-4. Pinata[https://www.pinata.cloud/]
+1. [Alchemy](https://www.alchemy.com/)
+2. [MetaMask](https://metamask.io/)
+3. [Ropsten faucet](https://faucet.ropsten.be/)
+4. [Pinata](https://www.pinata.cloud/)
 
 ## Steps
 1. Install dotenv package and add .env file in the root directory.
