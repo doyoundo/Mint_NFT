@@ -1,5 +1,5 @@
 # MintNFT 
-This example[^1] is to publish your own NFT (ERC-721 Token) on the Ethereum blockchain! In this example, we create and deploy ERC-721 smart contract on the Ropsten test network and use the smart contract to mint NFT.
+This example[^1] is to publish your own NFT (ERC-721 Token) on the Ethereum blockchain! In this example, we create and deploy ERC-721 smart contract on the Ropsten test network. Then, we use the smart contract to mint NFT.
 
 ## Basics
 ### Programs Used
